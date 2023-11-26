@@ -751,12 +751,7 @@ body {
 .footer-top {
   background-color: transparent;
 }
-#footer .footer-bottom {
-  background-color: transparent;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-position: center bottom;
-}
+
 @media (min-width: 992px) {
   .header-wrapper.header-side-nav:not(.fixed-header) #header {
     background-color: #ffffff;
